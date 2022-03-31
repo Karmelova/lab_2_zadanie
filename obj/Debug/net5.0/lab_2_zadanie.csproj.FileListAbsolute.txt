@@ -1,0 +1,16 @@
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.AssemblyInfo.cs
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.exe
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.deps.json
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.runtimeconfig.json
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.dll
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\ref\lab_2_zadanie.dll
+C:\Users\kamil\source\repos\lab_2_zadanie\bin\Debug\net5.0\lab_2_zadanie.pdb
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.dll
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\ref\lab_2_zadanie.dll
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.pdb
+C:\Users\kamil\source\repos\lab_2_zadanie\obj\Debug\net5.0\lab_2_zadanie.genruntimeconfig.cache
